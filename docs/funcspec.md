@@ -87,5 +87,6 @@ A rendszer célja, hogy oktatási környezetben működő tanulmányi adminisztr
 | Tantárgyfelvétel | Diák/Rendszergazda | Rendszergazda hozzárendeli a diákot a tárgyhoz | Tantárgy osztályonként különbözik, nincs időbeli ütközés | Tantárgy hozzárendelődik az adott diákhoz |
 | Oktató hozzárendelés tárgyhoz | Oktató/Rendszergazda | A Rendszergazda hozzárendeli az oktatót a kurzushoz mint kurzus vezető | Az oktató adminisztraciós jellegű jogokkal rendelkezik | Oktató adminisztrátori jogosultságokkal rendelkezik a saját kirendelt kurzusában |
 | Érdemjegy felvitele  | Oktató   | Oktató rögzíti a diák jegyét | Hallgató/Diák sikeresen teljesítette a kurzus által megadott feltételeket | Jegy megjelenik a  Hallgató/Diák profilján |
+| Send a mug  | Diákok   | Diákok képesek egy virtuális bögrét küldeni az általuk legjobb oktatónak | Az oktatónak jól kell oktatnia | A bögre üzenetként elküldödik az oktatónak |
 
 ---
